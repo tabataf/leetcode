@@ -5,7 +5,7 @@
 * 02 exercícios dificies 
 
 
-  ## Para testar os arquivos js:
+## Para testar os arquivos js:
 No terminal navegue até chegar na pasta do exercício que você deseja
 dentro dela rode o comando:
 ```
