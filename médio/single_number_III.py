@@ -4,7 +4,7 @@
 
 
 class Solution:
-    def singleNumber(self, nums: List[int]) -> List[int]:
+    def singleNumber(nums: list[int]) -> list[int]:
         nums.sort()
         nova_lista=[]
         numero_sem_par=0
@@ -17,4 +17,7 @@ class Solution:
         if nums[len(nums)-2]!=nums[len(nums)-1]:
             nova_lista.append(nums[len(nums)-1])
         return nova_lista
-        
+
+# teste
+nums = [1,2,1,3,2,5]
+print(Solution.singleNumber(nums))

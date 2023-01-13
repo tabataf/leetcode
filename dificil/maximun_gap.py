@@ -4,7 +4,7 @@
 # Você deve escrever um algoritmo que execute em tempo linear e use espaço extra linear.
 
 class Solution:
-    def maximumGap(self, nums: List[int]) -> int:
+    def maximumGap(nums: list[int]) -> int:
         if len(nums)<2:
             return 0
         if len(nums)==2:
@@ -15,3 +15,6 @@ class Solution:
             lista_de_diferenca_maxima.append(nums[i+1]-nums[i])
         return max(lista_de_diferenca_maxima)
  
+ # teste
+nums = [3,6,9,1]
+print(Solution.maximumGap(nums))

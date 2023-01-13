@@ -12,13 +12,13 @@
  var flipAndInvertImage = function(image) {
     // for ([inicialização]; [condição]; [expressão final])
     for (let i = 0; i < image.length; i++) {
-        image[i].reverse()
+        image[i].reverse();
         for (let j = 0; j < image[i].length; j++) {
             image[i][j] = image[i][j] == 0 ? 1 : 0
         }
     }
     return image;
 };
-//teste
-// image= Number[1010]
-// console.log(flipAndInvertImage(image))
+// teste
+t= [[1,1,0],[1,0,1],[0,0,0]]
+console.log(flipAndInvertImage(t))

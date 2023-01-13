@@ -28,3 +28,7 @@ var isPallindrome = function(n){
     n_invertido = String(n).split('').reverse().join('');
     return n==n_invertido;
 };
+
+// teste 
+n = 9
+console.log(isStrictlyPalindromic(n))
