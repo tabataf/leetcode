@@ -19,5 +19,6 @@
     }
     return image;
 };
-
-console.log(flipAndInvertImage([1010]))
+//teste
+// image= Number[1010]
+// console.log(flipAndInvertImage(image))
