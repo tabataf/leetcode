@@ -4,7 +4,7 @@
 * 02 exercícios médios
 * 02 exercícios dificies 
 
-# VS CODE:
+## VS CODE:
 * Caso você use visual studio code (vs code) você pode rodar os testes pré-escritos clicando no simbolo ▶️ - localizado no canto superior direito da sua interface - dentro de cada arquivo .py ou .js
 
 ## Para testar os arquivos js :
