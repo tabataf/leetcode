@@ -1,5 +1,4 @@
-# Nesse Repositório você vai encontrar resoluções de exercícios do site
-**[ LeetCode ](https://wa.me/5512982241763)** 
+# Nesse Repositório você vai encontrar resoluções de exercícios do site **[ LeetCode ](https://wa.me/5512982241763)** 
 # Sendo eles:
 * 06 exercícios fácieis
 * 02 exercícios médios
