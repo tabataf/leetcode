@@ -23,6 +23,7 @@ python nome_do_arquivo.py
 
 ## Rodar outro argumento no teste:
 Para testar algum outro número que não foi o que já deixei escrito nas variavéis dos arquivos, basta substituir o que vem depois do igual da variável que está escrita logo após teste pelo numéro que desejar
+*OBS:* Não copie essa parte para o leetCode
 
 ## Submit:
 Dentro de cada arquivo existe uma linha comentada com o link da resolução do devido exercicio no LeetCode
