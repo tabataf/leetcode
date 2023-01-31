@@ -3,6 +3,7 @@
 
 # Você deve escrever um algoritmo que execute em tempo linear e use espaço extra linear.
 
+#link do submit: https://leetcode.com/problems/maximum-gap/submissions/888772983/
 class Solution:
     def maximumGap(nums: list[int]) -> int:
         if len(nums)<2:

@@ -7,6 +7,8 @@
 
 # Retorne o mais cedo possível quando todas as sementes estiverem florescendo .
 
+#link do submit: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/submissions/888773187/
+
 import functools 
 
 class Solution:

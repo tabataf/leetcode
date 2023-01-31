@@ -1,5 +1,6 @@
 // Dado um inteiro x, retorne true se x for um palíndromo, e false caso contrário .
 
+// link do submit: https://leetcode.com/problems/palindrome-number/submissions/888772003/
 /**
  * @param {number} x
  * @return {boolean}

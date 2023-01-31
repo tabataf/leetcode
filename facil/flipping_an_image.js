@@ -5,6 +5,7 @@
 // Inverter uma imagem significa que cada um 0é substituído por 1, e cada um 1é substituído por 0.
 // Por exemplo, inverter [0,1,1]resulta em [1,0,0].
 
+// link do submit: https://leetcode.com/problems/flipping-an-image/submissions/888771203/
 /**
  * @param {number[][]} image
  * @return {number[][]}

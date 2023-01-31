@@ -4,6 +4,8 @@
 
 // Uma string é palindrômica se lê a mesma para frente e para trás.
 
+// link do submit: https://leetcode.com/problems/strictly-palindromic-number/submissions/888772732/
+
 /**
  * @param {number} n
  * @return {boolean}

@@ -1,5 +1,6 @@
 // 1281 - Dado um número inteiro n, retorne a diferença entre o produto de seus dígitos e a soma de seus dígitos.
 
+// link do submit: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/888773883/
 
 /**
  * @param {number} n

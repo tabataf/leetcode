@@ -2,6 +2,7 @@
 
 # Você deve escrever um algoritmo que execute em complexidade de tempo de execução linear e use apenas espaço extra constante.
 
+#link do submit: https://leetcode.com/problems/single-number-iii/submissions/888773555/
 
 class Solution:
     def singleNumber(nums: list[int]) -> list[int]:

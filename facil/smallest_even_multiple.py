@@ -1,5 +1,6 @@
 # 2413 - Dado um inteiro positivon , retorne o menor inteiro positivo que seja múltiplo de ambos 2 e n .
 
+# link do submit: https://leetcode.com/problems/smallest-even-multiple/submissions/888772250/
 class Solution:
     def smallestEvenMultiple( n: int) -> int:
 # range(de onde começa, onde termina)
